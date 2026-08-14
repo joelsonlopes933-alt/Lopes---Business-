@@ -1,0 +1,12 @@
+LOPES BUSINESS — CONFIGURAÇÃO PRIVADA
+
+Os dados bancários e fiscais fornecidos pelo titular NÃO foram incorporados em HTML, JavaScript, nem enviados para o frontend.
+
+Preencher no servidor/secret manager:
+- Banco: MILLENNIUM ATLANTICO
+- Titular: [CONFIGURAR PRIVADAMENTE]
+- NIF: [CONFIGURAR PRIVADAMENTE]
+- IBAN: [CONFIGURAR PRIVADAMENTE]
+
+Nunca publicar estes dados num repositório público.
+Nunca colocar IBAN/NIF em JavaScript enviado ao cliente.
